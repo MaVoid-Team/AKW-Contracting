@@ -1,30 +1,33 @@
-# AKW corporate website
+# AKW Contracting
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A bilingual corporate site for AKW General Contracting & MEP — the Riyadh firm that builds infrastructure and electromechanical systems for enterprise projects.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ziadahmed252525-gmailcoms-projects/v0-akw-corporate-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/n2XGjxSvjlv)
+If you need a public face for the company that covers who they are, what they deliver, and how to start a conversation, this is it.
 
-## Overview
+## Who it's for
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- AKW's team, when they need a clean link to the company
+- Project owners and facilities teams evaluating a general contractor
+- Partners looking for a short, bilingual company profile
 
-## Deployment
+## Outcomes
 
-Your project is live at:
+- English / Arabic in one click, including RTL, so regional clients can read the site in their language
+- Services spelled out: general contracting, construction management, and MEP systems
+- Company story on About — background, vision, mission, and how AKW works
+- A contact path for new projects without hunting through a brochure PDF
+- A live production URL you can send as-is
 
-**[https://vercel.com/ziadahmed252525-gmailcoms-projects/v0-akw-corporate-website](https://vercel.com/ziadahmed252525-gmailcoms-projects/v0-akw-corporate-website)**
+## Try it
 
-## Build your app
+[https://akw-contracting.vercel.app](https://akw-contracting.vercel.app)
 
-Continue building your app on:
+## How it works
 
-**[https://v0.app/chat/n2XGjxSvjlv](https://v0.app/chat/n2XGjxSvjlv)**
+Next.js app with three routes: home, about, and contact. A language context swaps copy, `lang`, and direction. Home leads with the pitch and services; About is the profile; Contact is the ask.
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Built by [Ziad Ahmed](https://github.com/Ziad-NasrEldin) at [MaVoid](https://mavoid.com).
+
+[Website](https://mavoid.com) · [LinkedIn](https://linkedin.com/in/ziad-ahmed-634202332) · [GitHub](https://github.com/Ziad-NasrEldin)
